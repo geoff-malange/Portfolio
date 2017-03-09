@@ -1,5 +1,5 @@
 # Portfolio
-Documents I have written
+A sampling of documents I have written
 
 Document Name | Description
 ---------------------------------- | -------------------------------------------------
