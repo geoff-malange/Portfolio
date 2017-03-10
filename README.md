@@ -1,5 +1,5 @@
 # Portfolio
-A sampling of documents I have written. Samples from other companies I have worked with are not available for public consumption.
+A sampling of documents I have written at Vyatta. Samples from other companies I have worked with are not available for public consumption.
 
 Document Name | Description
 ---------------------------------- | -------------------------------------------------
